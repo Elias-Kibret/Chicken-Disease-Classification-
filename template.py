@@ -22,7 +22,9 @@ list_of_files=[
       "dvc.yaml",
       "requirements.txt",
       "setup.py"
-      "research/trials.ipynb"
+      "research/trials.ipynb",
+      "templates/index.html",
+      "stepup.py"
 ]
 
 
@@ -30,7 +32,7 @@ for filepath in list_of_files:
     filepath=Path(filepath)
     
     filedir,filename=os.path.split(filepath)
-    print(filename)
+
     if filedir!="":
         os.makedirs(filedir,exist_ok=True)
         logging.info(f"Creatting directory; {filedir} for the file {filename}")
@@ -39,4 +41,4 @@ for filepath in list_of_files:
             pass
             logging.info(f"Creating empty file:{filepath}")
     else:
-        logging.info(f"{filname} is already exists")
+        logging.info(f"{filename} is already exists")

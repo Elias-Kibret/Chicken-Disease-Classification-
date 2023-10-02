@@ -94,3 +94,185 @@
 2023-09-29 23:03:27,121 INFO Creating empty file:requirements.txt
 2023-09-29 23:03:27,122 INFO Creatting directory; setup.pyresearch for the file trials.ipynb
 2023-09-29 23:03:27,122 INFO Creating empty file:setup.pyresearch\trials.ipynb
+2023-09-30 00:10:51,531 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:10:51,548 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:10:51,549 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:10:51,550 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:10:51,551 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:10:51,552 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:10:51,553 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:10:51,554 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:10:51,554 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:10:51,555 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:10:51,557 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:10:51,557 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:10:51,559 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:10:51,560 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:10:51,560 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:10:51,563 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:10:51,565 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:10:51,567 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:10:51,568 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:10:51,568 INFO Creating empty file:config\config.yaml
+2023-09-30 00:10:51,569 INFO Creating empty file:dvc.yaml
+2023-09-30 00:10:51,570 INFO Creating empty file:requirements.txt
+2023-09-30 00:10:51,571 INFO Creatting directory; setup.pyresearch for the file trials.ipynb
+2023-09-30 00:10:51,573 INFO Creating empty file:setup.pyresearch\trials.ipynb
+2023-09-30 00:18:29,077 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:18:29,089 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:18:29,090 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:18:29,091 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:18:29,092 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:18:29,092 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:18:29,093 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:18:29,093 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:18:29,094 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:18:29,094 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:18:29,094 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:18:29,095 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:18:29,095 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:18:29,096 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:18:29,096 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:18:29,096 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:18:29,097 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:18:29,098 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:18:29,099 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:18:29,099 INFO Creating empty file:config\config.yaml
+2023-09-30 00:18:29,100 INFO Creating empty file:dvc.yaml
+2023-09-30 00:18:52,121 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:18:52,122 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:18:52,123 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:18:52,125 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:18:52,125 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:18:52,126 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:18:52,127 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:18:52,127 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:18:52,128 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:18:52,129 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:18:52,130 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:18:52,130 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:18:52,131 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:18:52,131 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:18:52,132 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:18:52,133 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:18:52,133 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:18:52,134 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:18:52,134 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:18:52,135 INFO Creating empty file:config\config.yaml
+2023-09-30 00:18:52,136 INFO Creating empty file:dvc.yaml
+2023-09-30 00:19:43,915 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:19:43,916 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:19:43,916 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:19:43,917 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:19:43,917 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:19:43,918 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:19:43,918 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:19:43,918 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:19:43,919 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:19:43,919 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:19:43,920 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:19:43,920 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:19:43,921 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:19:43,921 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:19:43,922 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:19:43,922 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:19:43,923 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:19:43,923 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:19:43,923 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:19:43,924 INFO Creating empty file:config\config.yaml
+2023-09-30 00:19:43,924 INFO Creating empty file:dvc.yaml
+2023-09-30 00:20:34,191 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:20:34,192 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:20:34,192 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:20:34,193 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:20:34,194 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:20:34,194 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:20:34,195 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:20:34,195 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:20:34,196 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:20:34,196 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:20:34,197 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:20:34,197 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:20:34,198 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:20:34,199 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:20:34,199 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:20:34,200 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:20:34,200 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:20:34,201 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:20:34,202 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:20:34,202 INFO Creating empty file:config\config.yaml
+2023-09-30 00:20:34,203 INFO Creating empty file:dvc.yaml
+2023-09-30 00:20:38,534 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:20:38,536 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:20:38,537 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:20:38,537 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:20:38,538 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:20:38,539 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:20:38,539 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:20:38,540 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:20:38,541 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:20:38,541 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:20:38,542 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:20:38,542 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:20:38,543 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:20:38,543 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:20:38,544 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:20:38,545 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:20:38,545 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:20:38,546 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:20:38,546 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:20:38,547 INFO Creating empty file:config\config.yaml
+2023-09-30 00:20:38,547 INFO Creating empty file:dvc.yaml
+2023-09-30 00:22:10,144 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-09-30 00:22:10,145 INFO Creating empty file:.github\workflows\.gitkeep
+2023-09-30 00:22:10,146 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-09-30 00:22:10,148 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-09-30 00:22:10,149 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-09-30 00:22:10,149 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-09-30 00:22:10,150 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-09-30 00:22:10,150 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-09-30 00:22:10,151 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-09-30 00:22:10,151 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-09-30 00:22:10,152 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-09-30 00:22:10,152 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-09-30 00:22:10,153 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-09-30 00:22:10,153 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-09-30 00:22:10,154 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-09-30 00:22:10,154 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-09-30 00:22:10,154 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-09-30 00:22:10,155 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-09-30 00:22:10,155 INFO Creatting directory; config for the file config.yaml
+2023-09-30 00:22:10,156 INFO Creating empty file:config\config.yaml
+2023-09-30 00:22:10,156 INFO Creating empty file:dvc.yaml
+2023-09-30 00:22:10,157 INFO requirements.txt is already exists
+2023-09-30 00:22:10,157 INFO Creatting directory; setup.pyresearch for the file trials.ipynb
+2023-09-30 00:22:10,158 INFO Creating empty file:setup.pyresearch\trials.ipynb
+2023-09-30 00:22:10,158 INFO Creatting directory; templates for the file index.html
+2023-09-30 00:22:10,159 INFO Creating empty file:templates\index.html
+2023-10-02 16:50:54,429 INFO Creatting directory; .github\workflows for the file .gitkeep
+2023-10-02 16:50:54,450 INFO Creating empty file:.github\workflows\.gitkeep
+2023-10-02 16:50:54,450 INFO Creatting directory; src\cnnClassifier for the file __init__.py
+2023-10-02 16:50:54,451 INFO Creating empty file:src\cnnClassifier\__init__.py
+2023-10-02 16:50:54,451 INFO Creatting directory; src\cnnClassifier\components for the file __init__.py
+2023-10-02 16:50:54,452 INFO Creating empty file:src\cnnClassifier\components\__init__.py
+2023-10-02 16:50:54,452 INFO Creatting directory; src\cnnClassifier\utils for the file __init__.py
+2023-10-02 16:50:54,453 INFO Creating empty file:src\cnnClassifier\utils\__init__.py
+2023-10-02 16:50:54,454 INFO Creatting directory; src\cnnClassifier\config for the file __init__.py
+2023-10-02 16:50:54,454 INFO Creating empty file:src\cnnClassifier\config\__init__.py
+2023-10-02 16:50:54,455 INFO Creatting directory; src\cnnClassifier\config for the file configuration.py
+2023-10-02 16:50:54,455 INFO Creating empty file:src\cnnClassifier\config\configuration.py
+2023-10-02 16:50:54,455 INFO Creatting directory; src\cnnClassifier\pipeline for the file __init__.py
+2023-10-02 16:50:54,456 INFO Creating empty file:src\cnnClassifier\pipeline\__init__.py
+2023-10-02 16:50:54,456 INFO Creatting directory; src\cnnClassifier\entity for the file __init__.py
+2023-10-02 16:50:54,457 INFO Creating empty file:src\cnnClassifier\entity\__init__.py
+2023-10-02 16:50:54,458 INFO Creatting directory; src\cnnClassifier\constants for the file __init__.py
+2023-10-02 16:50:54,458 INFO Creating empty file:src\cnnClassifier\constants\__init__.py
+2023-10-02 16:50:54,458 INFO Creatting directory; config for the file config.yaml
+2023-10-02 16:50:54,459 INFO Creating empty file:config\config.yaml
+2023-10-02 16:50:54,460 INFO Creating empty file:dvc.yaml
+2023-10-02 16:50:54,460 INFO requirements.txt is already exists
+2023-10-02 16:50:54,460 INFO Creatting directory; setup.pyresearch for the file trials.ipynb
+2023-10-02 16:50:54,460 INFO Creating empty file:setup.pyresearch\trials.ipynb
+2023-10-02 16:50:54,461 INFO Creatting directory; templates for the file index.html
+2023-10-02 16:50:54,481 INFO index.html is already exists
+2023-10-02 16:50:54,482 INFO Creating empty file:stepup.py
