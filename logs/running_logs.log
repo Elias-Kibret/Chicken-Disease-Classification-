@@ -1,1 +1,131 @@
 [2023-10-02 20:43:28,772: INFO: main: Welcome to my custom log]
+[2023-10-03 23:24:55,373: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:24:55,588: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:31:58,943: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:31:58,947: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:40:02,318: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:40:02,322: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:41:26,436: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:41:26,439: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:44:54,468: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:44:54,472: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:44:57,959: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:44:57,963: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:45:57,615: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:45:57,619: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:45:59,984: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:45:59,987: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-03 23:46:01,114: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-03 23:46:01,118: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 00:54:10,215: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 00:54:10,237: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 00:55:07,818: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 00:55:07,821: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 01:00:53,847: INFO: common: yaml file: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:00:53,936: INFO: common: yaml file: key:val loaded successfully]
+[2023-10-04 01:01:24,305: INFO: common: yaml file: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:01:24,307: INFO: common: yaml file: key:val loaded successfully]
+[2023-10-04 01:01:53,424: INFO: common: yaml file: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:01:53,427: INFO: common: yaml file: key:val loaded successfully]
+[2023-10-04 01:01:56,372: INFO: common: yaml file: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:01:56,375: INFO: common: yaml file: key:val loaded successfully]
+[2023-10-04 01:02:25,593: INFO: common: yaml file: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:02:25,597: INFO: common: yaml file: key:val loaded successfully]
+[2023-10-04 01:03:35,004: INFO: common: yaml file check: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:03:35,009: INFO: common: yaml file check: key:val loaded successfully]
+[2023-10-04 01:05:09,245: INFO: common: yaml file check: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:05:09,248: INFO: common: yaml file check: key:val loaded successfully]
+[2023-10-04 01:05:43,251: INFO: common: yaml file check: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:05:43,261: INFO: common: yaml file check: key:val loaded successfully]
+[2023-10-04 01:07:10,221: INFO: common: yaml file check: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:07:10,224: INFO: common: yaml file check: key:val loaded successfully]
+[2023-10-04 01:16:21,406: INFO: common: yaml file check: {'artifacts_root': 'artifacts', 'data_ingestion': {'root_dir': 'artifacts/data_ingestion', 'source_URL': 'https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip', 'local_data_file': 'artifacts/data_ingestion/data.zip', 'unzip_dir': 'artifacts/data_ingestion'}} loaded successfully]
+[2023-10-04 01:16:21,409: INFO: common: yaml file check: key:val loaded successfully]
+[2023-10-04 01:16:21,410: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 01:18:51,974: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 01:18:51,980: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 01:18:51,983: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:45:34,090: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:45:34,213: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:45:34,214: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:49:51,347: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:49:51,352: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:49:51,354: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:49:53,944: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:49:53,949: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:49:53,951: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:05,914: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:05,933: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:05,935: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:07,768: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:07,771: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:07,773: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:12,412: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:12,417: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:12,419: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:27,310: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:27,314: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:27,315: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:29,139: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:29,142: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:29,143: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:29,962: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:29,967: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:29,968: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:50:30,197: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:50:30,200: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:50:30,201: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:51:06,098: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:52:17,157: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:52:17,171: INFO: common: yaml file check: <class 'str'> loaded successfully]
+[2023-10-04 16:52:17,172: WARNING: common: YAML content is not a dictionary. Cannot create ConfigBox object.]
+[2023-10-04 16:57:37,731: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:57:37,747: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:57:37,777: INFO: common: created directory at: artifacts]
+[2023-10-04 16:58:19,572: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:58:19,575: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:58:19,577: INFO: common: created directory at: artifacts]
+[2023-10-04 16:59:11,669: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:59:11,672: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 16:59:11,674: INFO: common: created directory at: artifacts]
+[2023-10-04 17:00:14,999: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:00:15,002: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:00:15,005: INFO: common: created directory at: artifacts]
+[2023-10-04 17:00:17,888: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:00:17,891: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:00:17,894: INFO: common: created directory at: artifacts]
+[2023-10-04 17:01:07,113: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:01:07,117: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:01:07,120: INFO: common: created directory at: artifacts]
+[2023-10-04 17:01:07,123: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-04 17:01:33,274: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:01:33,277: INFO: common: yaml file check: <class 'dict'> loaded successfully]
+[2023-10-04 17:01:33,279: INFO: common: created directory at: artifacts]
+[2023-10-04 17:01:33,283: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-04 17:02:15,530: INFO: 127158352: artifacts/data_ingestion/data.zip download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2C5E:B858:253EBB:26580E:651D703C
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 14:01:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pmo2280026-PMO
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1696428093.020224,VS0,VE721
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ae158586e651570870546d5325276f78368a5c2c
+Expires: Wed, 04 Oct 2023 14:06:33 GMT
+Source-Age: 0
+
+]

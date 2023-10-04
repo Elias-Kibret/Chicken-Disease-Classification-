@@ -9,7 +9,7 @@ from box import ConfigBox
 from pathlib import Path
 from typing import Any
 import base64
-
+from cnnClassifier import logger
 
 
 @ensure_annotations
@@ -26,16 +26,20 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
     Returns:
         ConfigBox: ConfigBox type
     """
+
     try:
         with open(path_to_yaml) as yaml_file:
             content = yaml.safe_load(yaml_file)
-            logger.info(f"yaml file: {path_to_yaml} loaded successfully")
-            return ConfigBox(content)
-    except BoxValueError:
-        raise ValueError("yaml file is empty")
+            logger.info(
+                f"yaml file check: {type(content)} loaded successfully")
+            if isinstance(content, dict):
+                return ConfigBox(content)
+            else:
+                logger.warning(
+                    "YAML content is not a dictionary. Cannot create ConfigBox object.")
+
     except Exception as e:
         raise e
-    
 
 
 @ensure_annotations
@@ -64,8 +68,6 @@ def save_json(path: Path, data: dict):
         json.dump(data, f, indent=4)
 
     logger.info(f"json file saved at: {path}")
-
-
 
 
 @ensure_annotations
@@ -110,6 +112,7 @@ def load_bin(path: Path) -> Any:
     data = joblib.load(path)
     logger.info(f"binary file loaded from: {path}")
     return data
+
 
 @ensure_annotations
 def get_size(path: Path) -> str:
